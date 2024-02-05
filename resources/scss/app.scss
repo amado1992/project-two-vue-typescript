@@ -1,0 +1,68 @@
+// Import icon libraries
+@import '@quasar/extras/material-icons/material-icons.css';
+
+// Import Quasar css
+@import 'quasar/src/css/index.sass';
+
+//Import tailwind utilities
+@tailwind utilities;
+
+.q-table th {
+    font-weight: bold !important;
+}
+
+a {
+    text-decoration: none;
+    @apply tw-text-gray-600 hover:tw-text-gray-800
+}
+
+.container {
+    @apply tw-px-8 md:tw-px-20 tw-py-5
+}
+
+.fixed-column-table {
+    max-width: 100%
+}
+
+.fixed-column-table thead tr:last-child th:last-child {
+    background-color: white;
+}
+
+.fixed-column-table td:last-child {
+    background-color: white;
+}
+
+.fixed-column-table th:last-child, .fixed-column-table td:last-child {
+    position: sticky;
+    right: 0;
+    z-index: 1;
+}
+
+.item-active {
+    background-color: #ecebeb;
+    font-weight: 500;
+}
+
+*,
+::before,
+::after {
+    border-width: 0;
+    border-style: solid;
+    border-color: theme('borderColor.DEFAULT');
+}
+
+.creator-tag {
+    display: inline-block;
+    min-width: 95px;
+    text-align: center;
+}
+
+.product-col {
+
+    @apply tw-max-w-[150px] tw-min-w-full tw-text-ellipsis tw-overflow-hidden
+}
+
+.product-col-specification {
+
+    @apply tw-max-w-[500px] tw-min-w-full tw-text-ellipsis tw-overflow-hidden
+}

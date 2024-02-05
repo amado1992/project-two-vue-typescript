@@ -1,0 +1,458 @@
+{
+    "nav": {
+        "dashboard": "Dashboard",
+        "profile": "Perfil",
+        "home": "Inicio"
+    },
+    "login": {
+        "title": "Iniciar sesión",
+        "remember": "Recuérdame"
+    },
+    "register": {
+        "title": "Registrarse"
+    },
+    "reset_password": {
+        "title": "Restablecer contraseña"
+    },
+    "verify_email": {
+        "title": "Verificación de correo electrónico",
+        "subtitle": "Gracias por registrarte! Antes de comenzar, ¿podría verificar su dirección de correo electrónico haciendo click en el enlace? ¿Te acabamos de enviar un correo electrónico? Si no recibiste el correo electrónico, con gusto te enviaremos otro.",
+        "verification_resent": "Se ha enviado un nuevo enlace de verificación a la dirección de correo electrónico que proporcionó durante el registro."
+    },
+    "profile": {
+        "title": "Perfil"
+    },
+    "profile_info": {
+        "title": "Información de perfil",
+        "subtitle": "Actualice la información de perfil y la dirección de correo electrónico de su cuenta."
+    },
+    "update_password": {
+        "title": "Actualizar contraseña",
+        "subtitle": "Asegúrese de que su cuenta esté usando una contraseña larga y aleatoria para mantenerse seguro."
+    },
+    "delete_account": {
+        "title": "Eliminar cuenta",
+        "subtitle": "Una vez que se elimine su cuenta, todos sus recursos y datos se eliminarán de forma permanente. Antes de borrar su cuenta, descargue cualquier dato o información que desee conservar.",
+        "question": "¿Está seguro/a de que desea eliminar su cuenta?"
+    },
+    "users": {
+        "title": "Usuarios",
+        "create": "Crear usuario",
+        "edit": "Editar usuario",
+        "import": "Importar usuario"
+    },
+    "clients": {
+        "title": "Clientes",
+        "create": "Crear cliente",
+        "import": "Importar clientes",
+        "edit": "Editar cliente",
+        "contact_data":"Datos de contacto",
+        "legal_representative": "Representante legal",
+        "contacts": "Contactos",
+        "add_contact": "Adicionar contacto",
+        "remove_contact": "Eliminar contacto",
+        "fill_contact_fields": "Debe completar todos los campos del contacto"
+    },
+    "providers": {
+        "title": "Proveedores",
+        "create": "Crear proveedor",
+        "edit": "Editar proveedor",
+        "import": "Importar proveedor",
+        "contact_person":"Persona de contacto"
+    },
+    "productCategories": {
+        "title": "Categorías de productos",
+        "create": "Crear categoría de productos",
+        "edit": "Editar categoría de productos",
+        "import": "Importar categoría de productos",
+        "none": "Ninguna"
+    },
+    "companies": {
+        "title": "Empresa",
+        "edit": "Editar datos de la empresa",
+        "import": "Importar datos de la empresa",
+        "logo": "Logotipo",
+        "pick": "Seleccione el logotipo",
+        "contact_data" : "Contactos",
+        "company_data" : "Datos de la empresa",
+        "add_phone": "Adicionar teléfono",
+        "fill_phone_fields": "Debe completar los datos del teléfono",
+        "phones": "Teléfonos"
+    },
+    "settings": {
+        "title": "Configuraciones",
+        "edit": "Editar configuraciones",
+        "general": "Generales",
+        "clausules": "Cláusulas contractuales"
+    },
+    "brands": {
+        "title": "Marcas",
+        "create": "Crear marca",
+        "edit": "Editar marca"
+    },
+    "products": {
+        "title": "Productos",
+        "create": "Crear producto",
+        "edit": "Editar producto",
+        "import": "Importar producto",
+        "active_contracts": "Contratos activos",
+        "active_contracts_title": "Ubicaciones de <strong>{product}</strong>",
+        "re_rents_history": "Historial de Re Alquileres",
+        "re_rents_history_2": "Historial de Re Alquileres de {product}"
+    },
+    "quotes": {
+        "title": "Cotizaciones",
+        "pending": "Cotizaciones pendientes ({total})",
+        "history": "Historial de cotizaciones",
+        "create": "Crear cotización",
+        "edit": "Editar cotización",
+        "periods": {
+            "1_day": "1 día",
+            "7_days": "7 días",
+            "15_days": "15 días",
+            "30_days": "30 días"
+        },
+        "select_product": "Seleccionar producto",
+        "select_product_hint": "Busque y seleccione el producto a cotizar"
+    },
+    "contracts": {
+        "title": "Contratos",
+        "actives": "Contratos activos ({total})",
+        "history": "Historial de contratos",
+        "details": "Detalles del contrato",
+        "create": "Crear contrato",
+        "edit": "Editar contrato",
+        "start": "Iniciar contrato",
+        "returns": {
+            "title": "Retornos"
+        },
+        "travels": {
+            "title": "Viajes"
+        },
+        "renovations": {
+            "title": "Renovaciones",
+            "create": "Nueva renovación"
+        }
+    },
+    "inventories": {
+        "title": "Ajustes de inventario",
+        "mesu_title": "Inventario MESU",
+        "rented_title": "Inventario de alquilados",
+        "manage": "Gestionar ajustes",
+        "create": "Nuevo ajuste de inventario",
+        "reasons": {
+            "title": "Motivos de ajustes",
+            "create": "Crear motivo de ajustes",
+            "edit": "Editar motivo de ajustes",
+            "import": "Importar motivo de ajustes"
+        },
+        "movements": {
+            "details": "Detalles del ajuste de inventario",
+            "types": {
+                "increment": "Aumenta",
+                "decrement": "Disminuye"
+            }
+        },
+        "select_product_hint": "Busque y seleccione el producto a ajustar"
+    },
+    "roles": {
+        "title": "Roles",
+        "create": "Crear rol",
+        "edit": "Editar rol"
+    },
+    "reports": {
+        "title": "Reportes",
+        "create": "Crear reporte",
+        "header": "Seleccione los parámetros adecuados para generar el reporte que necesita",
+        "products": {
+            "title": "Productos",
+            "info": "Información general",
+            "details": "Detalles del producto",
+            "rented": "Alquilados"
+        },
+        "product": "Reporte productos",
+        "select_product": "Producto(s)",
+        "select_product_hint": "Busque y seleccione el(los) producto(s) para generar reporte",
+        "export": "Exportar",
+        "contract": "Reporte contratos",
+        "contracts": {
+            "title": "Contratos",
+            "info": "Información general",
+            "details_contracts": "Información detallada sobre los contratos del cliente"
+        },
+        "earnings": "Reporte de ganancias",
+        "earning": {
+            "title": "Ganancias"
+        },
+        "productsToBeDelivered": "Reporte de productos faltantes por entregar",
+        "productToBeDelivered": {
+            "title": "Productos faltantes por entregar"
+        },
+        "reRent":"Equipos re-alquilados",
+        "reRents": {
+            "title": "Equipos re-alquilados"
+        }
+    },
+    "re_rents": {
+        "title": "Re Alquileres",
+        "singular_title": "Re Alquiler",
+        "create": "Crear Re Alquiler",
+        "edit": "Editar Re Alquiler",
+        "details": "Detalles del re alquiler",
+        "returns": {
+            "title": "Retornos a proveedor"
+        }
+    },
+    "projects": {
+        "title": "Proyectos",
+        "create": "Crear proyecto",
+        "import": "Importar proyecto",
+        "edit": "Editar proyecto"
+    },
+    "traces": {
+        "title": "Trazas",
+        "details": "Detalles de la traza"
+    },
+    "designs": {
+        "title": "Diseños",
+        "create": "Crear diseño",
+        "edit": "Editar diseño"
+    },
+    "invoices": {
+        "title": "Facturas",
+        "pending": "Facturas pendientes ({total})",
+        "history": "Historial de facturas",
+        "contract_title": "Facturas del contrato {contract}",
+        "create": "Crear factura",
+        "details": "Detalles de la factura {invoice} - Contrato {contract}",
+        "templates": "Plantillas"
+    },
+    "bonos": {
+        "title": "Abonos",
+        "create": "Crear abono",
+        "edit": "Editar abono",
+        "credit_notes": "Notas de crédito"
+    },
+    "payments": {
+        "title": "Pagos",
+        "create": "Crear pago",
+        "edit": "Editar pago",
+        "select_invoices": "Seleccionar facturas",
+        "select_invoices_hint": "Seleccione las facturas a pagar",
+        "invalid_credit": "El crédito repartido no es válido",
+        "details": "Detalles del pago"
+    },
+    "fields": {
+        "title": "Campos",
+        "old_fields": "Campos antiguos",
+        "field": "Campo",
+        "value": "Valor",
+        "name": "Nombre",
+        "lastname": "Apellidos",
+        "email": "Correo electrónico",
+        "password": "Contraseña",
+        "current_password": "Contraseña actual",
+        "password_confirmation": "Confirmar contraseña",
+        "created_at": "Fecha de creación",
+        "updated_at": "Fecha de modificación",
+        "role": "Rol",
+        "is_provider": "¿Es proveedor?",
+        "belongs_to": "Pertenece a",
+        "active": "Activo",
+        "address": "Dirección",
+        "ruc": "RUC",
+        "dv": "DV",
+        "no_taxes": "¿Exento de ITBMS?",
+        "phone" : "Teléfono",
+        "mobile": "Móvil",
+        "legal_representative": "Representante legal",
+        "cedula": "Cédula",
+        "position": "Cargo",
+        "brand": "Marca",
+        "product_category" : "Categoría",
+        "type": "Tipo",
+        "cost_price": "Precio de costo",
+        "daily_price": "Precio diario",
+        "weekly_price": "Precio semanal",
+        "biweekly_price": "Precio quincenal",
+        "monthly_price": "Precio mensual",
+        "replacement_price": "Precio de reposición",
+        "tax": "Impuesto",
+        "tax_percent": "Impuesto (%)",
+        "social_reason" : "Razón social",
+        "color" : "Color",
+        "download" : "Descargar",
+        "created_by": "Creado por",
+        "updated_by": "Modificado por",
+        "father_category": "Categoría padre",
+        "tax_itbms": "Impuesto ITBMS",
+        "expire_contract_notification": "Vencimiento de contrato",
+        "days_before_contract_expire" : "Días de antelación para notificar el vencimiento de contratos",
+        "billers": "Facturadores",
+        "select_billers": "Seleccione los facturadores",
+        "date": "Fecha",
+        "start_date": "Fecha de inicio",
+        "client": "Cliente",
+        "period": "Período",
+        "tax_exempt": "Exento de impuesto",
+        "price": "Precio",
+        "quantity": "Cantidad",
+        "discount": "% Descuento",
+        "discount_without_symbol": "Descuento",
+        "subtotal": "Subtotal",
+        "total": "Total",
+        "id": "ID",
+        "summary": "Resumen",
+        "observations": "Observaciones",
+        "commercial": "Comercial",
+        "warranty_deposit": "Depósito de garantía",
+        "project_address": "Dirección del proyecto",
+        "legal_representative_id": "Cédula rep. legal",
+        "person_in_charge": "Persona encargada",
+        "person_in_charge_id": "Cédula per. encargada",
+        "seller": "Vendedor",
+        "status": "Estado",
+        "reason": "Motivo",
+        "stock": "Disponibles",
+        "rented": "Realquilados",
+        "contracts_qty": "Cantidad de contratos",
+        "products_qty": "Productos alquilados",
+        "products": "Productos",
+        "contract_id": "Contrato (ID)",
+        "projects": "Proyecto(s)",
+        "clients": "Cliente(s)",
+        "details": "Detalles",
+        "mesu_return": "Retorno MESU",
+        "re_rent_return": "Retorno Re Alquiler",
+        "quote_id": "No cotización",
+        "from": "Desde",
+        "to": "Hasta",
+        "mesu": "Mesu",
+        "mesu_rented_delivered": "Entregado MESU / Re Alquiler",
+        "mesu_rented_return": "Retornado MESU / Re Alquiler",
+        "renovated_by": "Renovado por",
+        "created": "Creado",
+        "updated": "Editado",
+        "provider": "Proveedor",
+        "date_annulled": "Fecha de anulación",
+        "annulled_by": "Anulado por",
+        "returned": "Retornado",
+        "renovation_date": "Fecha de renovación",
+        "finished": "Finalizado",
+        "started": "Iniciado",
+        "contract": "Contrato",
+        "return_date": "Fecha de retorno",
+        "no_book": "No. libreta",
+        "product": "Producto",
+        "mesu_to_return": "Cantidad a retornar MESU",
+        "re_rent_to_return": "Cantidad a retornar Re Alquilado",
+        "project_manager": "Encargado de proyecto",
+        "construction_manager": "Encargado de la obra",
+        "in_charge_to_pay": "Encargado de cuentas por pagar",
+        "project": "Proyecto",
+        "re_rented": "Alquilados",
+        "module": "Módulo",
+        "action": "Acción",
+        "user": "Usuario",
+        "total_inventory": "Inventario total",
+        "total_re_rented": "Total re alquilados",
+        "in_contract": "En contratos",
+        "files": "Archivos",
+        "approved": "Aprobado",
+        "credit": "Crédito",
+        "was_paid": "Pagado",
+        "design": "Diseño",
+        "quantity_to_return": "Cantidad a retornar",
+        "filter": "Filtro",
+        "all": "Todos",
+        "actives": "Activos",
+        "inactives": "Inactivos",
+        "enterprise": "Empresa",
+        "balance": "Balance",
+        "invoiced": "Facturado",
+        "projects_quantity_by_month": "Alquiler mensual por proyecto",
+        "products_quantity_by_month": "Alquiler mensual por producto",
+        "remainder_days": "Días restantes",
+        "contracts_client": "Contratos del cliente",
+        "invoice": "Factura",
+        "per_to_pay": "Por pagar",
+        "amount": "Monto",
+        "new_value": "Nuevo valor",
+        "old_value": "Valor antiguo",
+        "quantity_by_month": "Alquiler mensual total",
+        "redi": "Documento Redi",
+        "ficha": "Ficha de inscripción",
+        "amount_paid": "Monto pagado",
+        "carried_by_client": "Retirado por el cliente",
+        "carried_client": "Retirado cliente",
+        "quantity_by_client": "Cantidad a retirar por el cliente",
+        "travel_date": "Fecha de viaje"
+
+    },
+    "actions": {
+        "title": "Acciones",
+        "details": "Detalles",
+        "edit": "Editar",
+        "delete": "Eliminar",
+        "cancel": "Cancelar",
+        "annular": "Anular",
+        "ok": "Aceptar",
+        "search": "Buscar",
+        "update": "Actualizar",
+        "login": "Iniciar sesión",
+        "register": "Registrarse",
+        "logout": "Cerrar sesión",
+        "confirm": "Confirmar",
+        "send_email": "Enviar correo electrónico",
+        "reset_password": "Restablecer contraseña",
+        "resend_verification": "Reenviar enlace de verificación",
+        "delete_account": "Eliminar cuenta",
+        "save": "Guardar",
+        "resend_verification_email": "Haga clic aquí para volver a enviar el correo electrónico de verificación.",
+        "download": "Descargar",
+        "start": "Iniciar",
+        "finish": "Finalizar",
+        "back": "Atrás",
+        "close": "Cerrar",
+        "clear": "Limpiar",
+        "generate": "Generar",
+        "preview": "Vista previa",
+        "approve": "Aprobar",
+        "renovation": "Renovar"
+    },
+    "messages": {
+        "create_confirmation": "Confirmar creación",
+        "create_confirmation_msg": "Por favor, verifique todos los datos antes de enviar el formulario.",
+        "delete_confirmation": "Confirmar eliminación",
+        "delete_confirmation_msg": "Esta acción no se puede deshacer. ¿Está seguro/a?",
+        "delete_bono_confirmation_msg": "Esta acción reducirá el crédito del cliente asociado.",
+        "action_confirmation": "Confirmar acción",
+        "annular_confirmation": "Confirmar anulación",
+        "annular_confirmation_msg": "Esta acción no se puede deshacer. ¿Está seguro/a?",
+        "forgot_password": "¿Olvidó su contraseña?",
+        "forgot_password_msg": "¿Olvidó su contraseña? No hay problema. Solo háganos saber su dirección de correo y le enviaremos un correo para restablecer su contraseña.",
+        "already_registered": "¿Ya tiene una cuenta?",
+        "confirm_password": "Esta es un area segura de la aplicación. Por favor, confirme su contraseña antes de continuar.",
+        "email_unverified": "Su dirección de correo electrónico no está verificada.",
+        "verification_resent": "Se ha enviado un nuevo enlace de verificación a su dirección de correo electrónico.",
+        "validation_error": "Existen errores de validación. Revise los datos.",
+        "required_field": "Por favor, rellene este campo",
+        "no_data": "Sin datos disponibles",
+        "no_data_msg": "No se encontraron datos.",
+        "email_invalid" : "El correo electrónico no tiene un formato válido",
+        "active": "Activo",
+        "defeated": "Vencido",
+        "pending": "Pendiente",
+        "finished": "Finalizado",
+        "renovated": "Renovado",
+        "annulled": "Anulado",
+        "created_msg": "Por {name} el {date}",
+        "updated_msg": "Última vez por {name} el {date}",
+        "without_init": "Sin iniciar",
+        "no_returns": "No se encontraron retornos.",
+        "empty_files": "No hay archivos.",
+        "no_products": "No existen productos asociados al(los) cliente(s) filtrados.",
+        "apply_taxes": "Aplica impuestos",
+        "no_results": "No se encontraron resultados para los datos seleccionados"
+    }
+}

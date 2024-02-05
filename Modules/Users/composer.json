@@ -1,0 +1,27 @@
+{
+    "name": "nwidart/users",
+    "description": "",
+    "authors": [
+        {
+            "name": "Nicolas Widart",
+            "email": "n.widart@gmail.com"
+        }
+    ],
+    "require": {
+        "inertiajs/inertia-laravel": "^0.6.8",
+        "spatie/laravel-route-attributes": "^1.18"
+    },
+    "extra": {
+        "laravel": {
+            "providers": [],
+            "aliases": {
+
+            }
+        }
+    },
+    "autoload": {
+        "psr-4": {
+            "Modules\\Users\\": ""
+        }
+    }
+}

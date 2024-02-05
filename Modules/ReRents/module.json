@@ -1,0 +1,11 @@
+{
+    "name": "ReRents",
+    "alias": "rerents",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\ReRents\\Providers\\ReRentsServiceProvider"
+    ],
+    "files": []
+}

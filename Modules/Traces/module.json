@@ -1,0 +1,11 @@
+{
+    "name": "Traces",
+    "alias": "traces",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\Traces\\Providers\\TracesServiceProvider"
+    ],
+    "files": []
+}
